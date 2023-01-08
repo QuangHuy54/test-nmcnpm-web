@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_abcdefghTrng phng Ti khon testM phng yk_3e05c5</name>
+   <tag></tag>
+   <elementGuidId>75a69382-ad30-4ba2-a593-860cf76c91df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>832329d2-b6e1-457c-9934-2c64fe10068d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-0</value>
+      <webElementGuid>f3cc01f3-0324-48f9-a7f7-ed61cf8ba6e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>abcdefghTrưởng phòng: Tài khoản testMã phòng: ykEyX6q8IA3XzuJUU7AW</value>
+      <webElementGuid>2edcb46c-e780-45d6-a90a-ed7286801133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;jss18 MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-3 MuiGrid-grid-md-3 css-16zc531&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]</value>
+      <webElementGuid>3492a947-4f06-4cd2-aa5b-263aa643c930</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>68c2bd83-d46f-4e10-a7f5-fd42d80d7267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[20]</value>
+      <webElementGuid>5262c97c-30a4-4b67-8b8a-23189730d4b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem thêm'])[1]/preceding::div[41]</value>
+      <webElementGuid>02077931-43cd-40d1-8dd9-693cc83064a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>b8d093e5-657f-4b51-83f2-51ed4a3650a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'abcdefghTrưởng phòng: Tài khoản testMã phòng: ykEyX6q8IA3XzuJUU7AW' or . = 'abcdefghTrưởng phòng: Tài khoản testMã phòng: ykEyX6q8IA3XzuJUU7AW')]</value>
+      <webElementGuid>4ca85966-70f3-46b9-997f-0962714c6d9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

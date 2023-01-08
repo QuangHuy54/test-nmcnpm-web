@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sai mt khu_1</name>
+   <tag></tag>
+   <elementGuidId>843c5e33-cf19-4f98-a60b-b9d50f4c603d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SnackbarContent-root.SnackbarItem-contentRoot.SnackbarItem-variantError.SnackbarItem-lessPadding.css-hped4j</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c2edafe9-7aab-40cd-a571-2f4955e6fb32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SnackbarContent-root SnackbarItem-contentRoot SnackbarItem-variantError SnackbarItem-lessPadding css-hped4j</value>
+      <webElementGuid>4ff283df-98b0-4572-bbc1-c8f1613b5395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>notistack-snackbar</value>
+      <webElementGuid>28a04d75-ab02-4784-8d66-99e142cdad35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>5db013d2-2c2c-40eb-b8e4-472020a5f236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>✖️Sai mật khẩu</value>
+      <webElementGuid>ac2c0c7f-acb5-4393-8c15-3f8d3ed672c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;SnackbarContainer-bottom SnackbarContainer-center SnackbarContainer-root css-uwcd5u&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;SnackbarItem-wrappedRoot css-96yce9&quot;]/div[@class=&quot;SnackbarContent-root SnackbarItem-contentRoot SnackbarItem-variantError SnackbarItem-lessPadding css-hped4j&quot;]</value>
+      <webElementGuid>3610df66-3d20-4bf1-8cd1-e22ddc673c4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>f5c9aee4-a7f5-4dcd-9b40-8d278e4b2e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tạo tài khoản mới'])[1]/following::div[6]</value>
+      <webElementGuid>be2978de-ef38-44e1-a618-36ead248d3d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::div[7]</value>
+      <webElementGuid>7a2dec3e-8d8a-4939-90fd-7023a9b2f40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>f0c12281-4f65-4595-b008-db795a193c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '✖️Sai mật khẩu' or . = '✖️Sai mật khẩu')]</value>
+      <webElementGuid>3a1e5594-041a-49d7-b3e4-2420fc69de59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

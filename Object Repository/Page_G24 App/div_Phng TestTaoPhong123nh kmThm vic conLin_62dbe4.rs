@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Phng TestTaoPhong123nh kmThm vic conLin_62dbe4</name>
+   <tag></tag>
+   <elementGuidId>5bf4b7e0-abea-47b3-8ef8-4a1e201c2bd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='TestTaoPhong123'])[1]/following::div[62]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffbe3b7e-6d78-42a3-a43f-46ed52f16f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>a3542f51-07be-454f-8120-b0392bc585a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>77fe669a-ed7b-42f0-92b8-f83e742c906f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>096467b2-070d-4458-b24a-98ea3dd9d7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phòng: TestTaoPhong123​Đính kèmThêm việc conLiên kết việcKhácMô tả công việc:có rồiBình luận​Trạng tháiChưa làmThông tin chi tiếtNgười đảm nhận:Chưa xác địnhNgười tạo:Tài khoản testNhãn:​Ngày tạo:56 phút trướcNgày đến hạn:Không</value>
+      <webElementGuid>1ef69f11-9fc6-49a7-be3c-f8789ad8824f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>8553ebaf-366b-4356-98d3-a603abf66e8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestTaoPhong123'])[1]/following::div[62]</value>
+      <webElementGuid>b38520c3-185b-46e7-9f43-116337baa4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]</value>
+      <webElementGuid>4a91b0a5-4bc5-4952-a106-44455dc91a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Phòng: TestTaoPhong123​Đính kèmThêm việc conLiên kết việcKhácMô tả công việc:có rồiBình luận​Trạng tháiChưa làmThông tin chi tiếtNgười đảm nhận:Chưa xác địnhNgười tạo:Tài khoản testNhãn:​Ngày tạo:56 phút trướcNgày đến hạn:Không' or . = 'Phòng: TestTaoPhong123​Đính kèmThêm việc conLiên kết việcKhácMô tả công việc:có rồiBình luận​Trạng tháiChưa làmThông tin chi tiếtNgười đảm nhận:Chưa xác địnhNgười tạo:Tài khoản testNhãn:​Ngày tạo:56 phút trướcNgày đến hạn:Không')]</value>
+      <webElementGuid>8b2d2857-8f77-44f5-a378-fbd486294d04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

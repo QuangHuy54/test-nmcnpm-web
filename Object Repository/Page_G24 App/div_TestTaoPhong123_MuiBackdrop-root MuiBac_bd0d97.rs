@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TestTaoPhong123_MuiBackdrop-root MuiBac_bd0d97</name>
+   <tag></tag>
+   <elementGuidId>289e2934-9f0b-4579-95cd-a5443c1f8622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBackdrop-root.MuiBackdrop-invisible.css-esi9ax</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de89c1cc-1ec8-40b2-b9d0-ad252e130fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8a6f4c9e-15e0-4b2a-a95a-c94d61170782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBackdrop-root MuiBackdrop-invisible css-esi9ax</value>
+      <webElementGuid>b246f916-011c-48ea-9fe1-c985760422d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root MuiMenu-root MuiModal-root css-1sucic7&quot;]/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible css-esi9ax&quot;]</value>
+      <webElementGuid>5c7bff0b-6e13-417c-b917-5835b07a195f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div</value>
+      <webElementGuid>44a5b075-5d6a-4174-b476-cdbb592187d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

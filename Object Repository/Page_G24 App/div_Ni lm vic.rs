@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ni lm vic</name>
+   <tag></tag>
+   <elementGuidId>68b0d03f-d2a4-47cb-aac6-d05feb59b78e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jss26.jss27.MuiBox-root.css-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/ul/li[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ef578d1-597d-45e8-b59d-e4682eb95b8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss26 jss27 MuiBox-root css-0</value>
+      <webElementGuid>6476ca70-63e5-4970-b0f9-89e4c568a8bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nơi làm việc</value>
+      <webElementGuid>5a7f095c-fb46-49fa-8e32-fddf4c47133c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;jss9 MuiBox-root css-0&quot;]/div[@class=&quot;jss21  MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-1ontqvh&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters jss25 css-1km1ehz&quot;]/div[@class=&quot;jss26 jss27 MuiBox-root css-0&quot;]</value>
+      <webElementGuid>ca93703c-4f0d-4b9a-800d-11e6059f506e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/ul/li[2]/div</value>
+      <webElementGuid>2f660a73-e796-49b4-aa0c-2c18c5224f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a1'])[1]/following::div[5]</value>
+      <webElementGuid>49c2b675-3b4e-4cd5-9217-f8aeb819ea0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>027e3e30-c00c-4aaa-bc20-a48e70af46e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nơi làm việc' or . = 'Nơi làm việc')]</value>
+      <webElementGuid>8612a555-9474-4e96-8a4a-c97c3cb2de90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

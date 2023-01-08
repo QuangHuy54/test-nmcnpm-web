@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_TestTaoPhong123</name>
+   <tag></tag>
+   <elementGuidId>9fb5f645-89ef-44f9-b31c-5b75d29b90da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-4.MuiGrid-grid-sm-3.MuiGrid-grid-md-3.css-16zc531 > div.MuiBox-root.css-0 > div.MuiBox-root.css-0 > div.MuiBox-root.css-0 > p.MuiTypography-root.MuiTypography-body1.css-9l3uo3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f21953b3-11ea-4d10-8892-830f47c6326f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-9l3uo3</value>
+      <webElementGuid>148f69c9-6a7b-4047-aecd-ce2469e2d586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TestTaoPhong123</value>
+      <webElementGuid>d76a0fd3-38df-41af-b798-1e4e3843048c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;jss18 MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-3 MuiGrid-grid-md-3 css-16zc531&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-9l3uo3&quot;]</value>
+      <webElementGuid>85ab2e05-a08a-4d38-9cce-597cc6bcb4e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/p</value>
+      <webElementGuid>1da0ce3b-7129-42e5-a4cb-26589f558b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::p[1]</value>
+      <webElementGuid>26c59c52-beca-4773-9be5-11eb9b03261b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem thêm'])[1]/preceding::p[24]</value>
+      <webElementGuid>6db23cec-c567-4bcb-b62d-030156c7d8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TestTaoPhong123']/parent::*</value>
+      <webElementGuid>904b3493-6085-4c9a-8932-983d2990fff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/p</value>
+      <webElementGuid>74ffbe21-7ab4-41c8-bb65-b73421c9fa08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'TestTaoPhong123' or . = 'TestTaoPhong123')]</value>
+      <webElementGuid>c6221d5d-6dd7-446e-a6b5-c41100341d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem thêm'])[1]/preceding::p[27]</value>
+      <webElementGuid>7fd658fa-fba4-4f09-88c0-c56779779cf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

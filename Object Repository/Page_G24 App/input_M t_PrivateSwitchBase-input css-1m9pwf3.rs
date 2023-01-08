@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_M t_PrivateSwitchBase-input css-1m9pwf3</name>
+   <tag></tag>
+   <elementGuidId>21bf4d8f-a67a-4195-a4b1-39f6836f43be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.PrivateSwitchBase-input.css-1m9pwf3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5970fd06-abd5-4967-a73e-e21c9ff935c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PrivateSwitchBase-input css-1m9pwf3</value>
+      <webElementGuid>1861fe6b-d521-459d-83d3-d7841c6fee05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>ab7b9dfb-73ef-4a94-9aac-248388ddae72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-indeterminate</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>181ab2d3-66cc-4b1a-870c-739feeca418e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-uhb5lp&quot;]/div[@class=&quot;MuiDialogContent-root css-1ty026z&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1jaw3da&quot;]/span[@class=&quot;MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-root MuiCheckbox-colorPrimary css-zun73v&quot;]/input[@class=&quot;PrivateSwitchBase-input css-1m9pwf3&quot;]</value>
+      <webElementGuid>0b318351-0f91-48ad-9ae4-f214d5c47487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>4997a260-1489-48a6-9c6d-c1a80860f968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/input</value>
+      <webElementGuid>f83db96f-86c0-4ca5-a47f-423f07125fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>5141ee79-b088-4ca5-8e8c-634581b87e2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

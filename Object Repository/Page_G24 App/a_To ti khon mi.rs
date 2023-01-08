@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_To ti khon mi</name>
+   <tag></tag>
+   <elementGuidId>6bceee9b-1fcb-4fa7-91bf-c408c48880aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#createNewEmailButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='createNewEmailButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a001e38-dbe7-48a2-ba3a-5fb54bd55a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>createNewEmailButton</value>
+      <webElementGuid>07ea8f31-1d1d-4f57-a775-890aeaf7765e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn flex w-4/5 justify-center rounded-3xl border-4 border-solid py-2 px-4 text-xl font-bold font-normal text-center</value>
+      <webElementGuid>5d4d6a41-7fe8-47c6-966f-58266b486321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tạo tài khoản mới</value>
+      <webElementGuid>759675c8-7fb2-43af-830d-edd265a91e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createNewEmailButton&quot;)</value>
+      <webElementGuid>03198af6-1fd5-4aa5-b532-385aa29fadc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='createNewEmailButton']</value>
+      <webElementGuid>c8a69192-096b-4495-a95a-656208b1c50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div[3]/a</value>
+      <webElementGuid>d374ebc5-c847-4306-98d9-09fdfcefa15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tạo tài khoản mới')]</value>
+      <webElementGuid>1a828179-6b64-4202-a310-dd803f17c025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::a[1]</value>
+      <webElementGuid>1ca21539-9eec-4044-aa7c-8b204baef45b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/following::a[1]</value>
+      <webElementGuid>d1b92c9a-bcbd-4f76-b217-23924543a02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'createNewEmailButton', '&quot;', ')')])[1]/preceding::a[1]</value>
+      <webElementGuid>f28ff6a3-a88d-48a0-9ffe-9eb26bcdc14f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tạo tài khoản mới']/parent::*</value>
+      <webElementGuid>c0301b5c-f9c3-499e-9187-30423aca1c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>76764a25-1e2e-4706-a8de-46eb8884bffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'createNewEmailButton' and (text() = 'Tạo tài khoản mới' or . = 'Tạo tài khoản mới')]</value>
+      <webElementGuid>83895bfc-015a-4e8c-8562-998641f6c3f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HYTO</name>
+   <tag></tag>
+   <elementGuidId>6d939600-cb29-49cd-8e27-251b24df9404</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialogActions-root.MuiDialogActions-spacing.css-14b29qc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Đính kèm'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bfae7ea-f91b-4470-8474-10eb5ee0fa50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialogActions-root MuiDialogActions-spacing css-14b29qc</value>
+      <webElementGuid>dd30b220-80f7-4f04-9716-23de0a98e35a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HỦYTẠO</value>
+      <webElementGuid>49492c47-1655-493c-8a76-90f99888fdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-uhb5lp&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-14b29qc&quot;]</value>
+      <webElementGuid>e1eee51d-93df-457c-abf5-82d22d091cb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đính kèm'])[1]/following::div[3]</value>
+      <webElementGuid>705f45d5-8381-427c-96fc-808478aa4d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô tả:'])[1]/following::div[6]</value>
+      <webElementGuid>3d0f9bc8-4213-416d-b4f4-583b6b7866fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div/div[2]</value>
+      <webElementGuid>09393e49-b58d-4cae-81dc-84c477b0290e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HỦYTẠO' or . = 'HỦYTẠO')]</value>
+      <webElementGuid>c8561128-69cb-4790-8661-dcb32a98b736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tôi đồng ý với các điều khoản dịch vụ.'])[1]/following::div[1]</value>
+      <webElementGuid>c3eeef4c-8c6c-485a-8979-108084475f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô tả:'])[1]/following::div[2]</value>
+      <webElementGuid>8f964d99-da73-4402-82cb-cd18a82c3fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]</value>
+      <webElementGuid>05e2f2cb-876a-4d66-9dc7-823aa77ff932</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

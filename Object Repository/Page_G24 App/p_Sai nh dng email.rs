@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sai nh dng email</name>
+   <tag></tag>
+   <elementGuidId>b698c216-e5c1-46c0-88eb-ccbeebc14145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#email-helper-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='email-helper-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>19f6d1a4-36fd-4dca-9280-8ed03b5ee8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained MuiFormHelperText-filled Mui-required css-v7esy</value>
+      <webElementGuid>53c05edf-7e84-4e06-b88b-5e1c3a682d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email-helper-text</value>
+      <webElementGuid>372c163f-7ec5-4756-aec2-d18fa2254931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sai định dạng email</value>
+      <webElementGuid>800d92e5-9ba0-47c6-842a-23962ae39a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email-helper-text&quot;)</value>
+      <webElementGuid>4f7bc917-5b21-4d99-815e-63aa69ec891f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='email-helper-text']</value>
+      <webElementGuid>2fc048bb-2ab5-4b58-b629-e0cde059f656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div/p</value>
+      <webElementGuid>9a8207fb-2c41-449d-938e-61404ba581b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::p[1]</value>
+      <webElementGuid>c7db2339-62d0-4553-9b2b-dd591bf2ceb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/following::p[1]</value>
+      <webElementGuid>9436dc2b-e0e5-41e8-81f9-474dacf80c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::p[1]</value>
+      <webElementGuid>cf14a73f-8a74-47e9-9ae0-6c0b69f2eb07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hiện'])[1]/preceding::p[1]</value>
+      <webElementGuid>130138b3-b40d-4cb9-a8a3-239bcb942186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sai định dạng email']/parent::*</value>
+      <webElementGuid>e5a2c33b-1e29-43a4-bd91-b50bd4246239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>c85a670e-3e5d-4bf0-aeb6-5e1001492621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'email-helper-text' and (text() = 'Sai định dạng email' or . = 'Sai định dạng email')]</value>
+      <webElementGuid>9cc89ea9-8110-4956-860d-95ecc6e689f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

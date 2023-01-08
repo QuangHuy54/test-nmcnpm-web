@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_abcTrng phng khaM phng NUj0hvNq3JkYp76vWLlk</name>
+   <tag></tag>
+   <elementGuidId>e868138a-2fb2-4349-b739-d3d3b450254d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[9]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70047660-f7a2-4a27-be70-326b165a39f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-0</value>
+      <webElementGuid>41d606de-5750-4ccb-bc86-50d93b2be447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>abcTrưởng phòng: khaMã phòng: NUj0hvNq3JkYp76vWLlk</value>
+      <webElementGuid>433633c5-2085-4546-83dc-fc8a57f7c8d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;jss18 MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 MuiGrid-grid-sm-3 MuiGrid-grid-md-3 css-16zc531&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]</value>
+      <webElementGuid>9bd36e23-2e85-4306-83ef-eb1558a20c35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[9]/div</value>
+      <webElementGuid>c73b8668-caf1-47d7-8f2c-69138dd66b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[62]</value>
+      <webElementGuid>d7a378e3-3017-4400-b08a-45d09402e1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem thêm'])[1]/preceding::div[6]</value>
+      <webElementGuid>41c72c9e-761d-426c-91a2-cd7b971b0147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div</value>
+      <webElementGuid>f62026d0-23a2-4172-9629-d1c66bd1947e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'abcTrưởng phòng: khaMã phòng: NUj0hvNq3JkYp76vWLlk' or . = 'abcTrưởng phòng: khaMã phòng: NUj0hvNq3JkYp76vWLlk')]</value>
+      <webElementGuid>155fd07c-b34d-40a9-936f-f01f016f760f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

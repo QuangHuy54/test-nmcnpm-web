@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_TestTaoPhong123_MuiSvgIcon-root MuiSvgI_9f6e8f_1</name>
+   <tag></tag>
+   <elementGuidId>0dd44042-c8b3-4b71-bce9-e21736daa4c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='TestTaoPhong123'])[1]/following::*[name()='svg'][15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1da9fe98-37a7-46ba-9a63-dde204537e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv</value>
+      <webElementGuid>825c6f56-e478-4b35-bd26-6627257430bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>506f0e5e-b21e-4184-b5c2-456f4bd122e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>603f736e-3e8e-4d63-86ec-79c47992d194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>ebc55509-e4b9-4ab6-8f0a-9c5bb2628692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ClearIcon</value>
+      <webElementGuid>376fbb18-13c4-4511-b6a4-9d988e2b4119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthLg MuiDialog-paperFullWidth css-1nhstuc&quot;]/div[@class=&quot;jss72 MuiBox-root css-0&quot;]/div[@class=&quot;jss73 MuiBox-root css-0&quot;]/div[@class=&quot;jss74 MuiBox-root css-0&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1yxmbwk&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv&quot;]</value>
+      <webElementGuid>07d8b580-2559-458c-b931-81778d5e5874</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestTaoPhong123'])[1]/following::*[name()='svg'][15]</value>
+      <webElementGuid>a25f8370-6ae1-4719-9cf2-2625dbd37c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test sửa công việc'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>32074d72-07e3-49ca-b513-c89dee1e2be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đính kèm'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f00131e5-199c-4be3-aa95-f200964891ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

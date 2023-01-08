@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Phng TestTaoPhong123Test sa cng vicnh k_e31eb7</name>
+   <tag></tag>
+   <elementGuidId>7f221a5f-c3bf-424c-9999-4df3257c866f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='TestTaoPhong123'])[1]/following::div[62]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>580d56a0-63c9-4231-b66d-a1ef73052012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>ef343369-8051-48b5-9e43-b54caf7f54d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>27178e3c-b2a3-4aae-af56-5e6b243194bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>10a0f5dd-ffa4-40f0-ac5b-aceef00f637f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phòng: TestTaoPhong123Test sửa công việcĐính kèmThêm việc conLiên kết việcKhácMô tả công việc:có rồi​Bình luận​Trạng tháiChưa làmThông tin chi tiếtNgười đảm nhận:Chưa xác địnhNgười tạo:Tài khoản testNhãn:​Ngày tạo:56 phút trướcNgày đến hạn:Không</value>
+      <webElementGuid>6cf3adb8-db1e-49c4-8f00-f3b88b6e5b9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>bc3d2d37-1c10-46e6-ba4c-87f3595651aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestTaoPhong123'])[1]/following::div[62]</value>
+      <webElementGuid>91746624-04c4-480a-9563-b5f07addf0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]</value>
+      <webElementGuid>f4bcb88d-933c-4a32-8dc1-563eafe50b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Phòng: TestTaoPhong123Test sửa công việcĐính kèmThêm việc conLiên kết việcKhácMô tả công việc:có rồi​Bình luận​Trạng tháiChưa làmThông tin chi tiếtNgười đảm nhận:Chưa xác địnhNgười tạo:Tài khoản testNhãn:​Ngày tạo:56 phút trướcNgày đến hạn:Không' or . = 'Phòng: TestTaoPhong123Test sửa công việcĐính kèmThêm việc conLiên kết việcKhácMô tả công việc:có rồi​Bình luận​Trạng tháiChưa làmThông tin chi tiếtNgười đảm nhận:Chưa xác địnhNgười tạo:Tài khoản testNhãn:​Ngày tạo:56 phút trướcNgày đến hạn:Không')]</value>
+      <webElementGuid>474fd625-e308-4190-8a55-b959bb7df82c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

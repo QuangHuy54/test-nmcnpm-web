@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng kHinng k</name>
+   <tag></tag>
+   <elementGuidId>6f4d0f2e-3a2f-4be2-8326-b65db2c666c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-8.space-y-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>48c597d2-8b41-45d1-9a0d-608fd2a241f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-8 space-y-6</value>
+      <webElementGuid>1edbed18-ffdd-4ac9-96bd-4b74f0ee37bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng ký​​Hiện​Đăng ký</value>
+      <webElementGuid>9ed0c0f5-08f5-41d3-ba04-b21a782bad29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;jss9 MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;flex min-h-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;w-full max-w-md space-y-8&quot;]/div[@class=&quot;lg:shadow-2xl rounded px-8 pt-6 pb-8 mb-4 flex flex-col&quot;]/div[@class=&quot;mt-8 space-y-6&quot;]</value>
+      <webElementGuid>cf713592-d912-497d-a2b3-dc41745a3fd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div</value>
+      <webElementGuid>8e3668b3-5fda-48a3-8150-a9c328972e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div</value>
+      <webElementGuid>4ff57ea0-df1e-4aad-bdc9-84f866abeae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Đăng ký​​Hiện​Đăng ký' or . = 'Đăng ký​​Hiện​Đăng ký')]</value>
+      <webElementGuid>716b3e9a-2690-4aa2-8f19-46d7ca703de9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

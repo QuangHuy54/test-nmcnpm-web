@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Test 123</name>
+   <tag></tag>
+   <elementGuidId>d9ffc87b-2222-4eff-826f-479a94f4eca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div/ul/li/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>921ef4ca-8bdf-4c71-bbc1-afef0118b952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-9l3uo3</value>
+      <webElementGuid>902eb241-a93c-44db-ba80-3954a1809274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test 123</value>
+      <webElementGuid>0bebcfbd-5678-46ff-8bae-86d1bd15b88e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;jss18 MuiBox-root css-0&quot;]/div[@class=&quot;jss67  MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;scrollbar-container ps&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/ul[@class=&quot;tasks&quot;]/li[1]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-s18byi&quot;]/div[@class=&quot;MuiBox-root css-1p3qk0r&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-9l3uo3&quot;]</value>
+      <webElementGuid>0c562e8e-62d9-4944-be75-871d38b9e289</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div/div/ul/li/div/div/div/div[2]/p</value>
+      <webElementGuid>34bc2315-fbd1-4cd3-a7d3-66cb7805b3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestTaoPhong123'])[1]/following::p[12]</value>
+      <webElementGuid>faf12019-a8a2-432f-9b3e-3f961266cf0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test 123']/parent::*</value>
+      <webElementGuid>7e406023-7cc3-4367-b030-59530268c1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>35fa37a3-adf9-4b73-b00e-bab3650d7c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Test 123' or . = 'Test 123')]</value>
+      <webElementGuid>109391c5-807e-46f6-8c0e-17c89d5d519b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
